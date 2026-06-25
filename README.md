@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Turborepo-2-EF4444?logo=turborepo" alt="Turborepo 2" />
   <br />
   <h1>SyM Finance</h1>
-  <p><strong>SyM (Sync & Manage)</strong> — Dashboard financiero personal con sincronización automática de cuentas, portfolio, suscripciones, cuotas, reservas y más.</p>
+  <p><strong>SyM (Sync your Money)</strong> — Dashboard financiero personal con sincronización automática de cuentas, portfolio, suscripciones, cuotas, reservas y más.</p>
 </div>
 
 <div align="center">

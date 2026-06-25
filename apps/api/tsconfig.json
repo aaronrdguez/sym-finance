@@ -1,0 +1,6 @@
+{
+  "extends": "@sym-finance/typescript-config/node.json",
+  "compilerOptions": {},
+  "include": ["**/*.ts", "**/*.mts"],
+  "exclude": ["node_modules"]
+}

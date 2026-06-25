@@ -1,0 +1,15 @@
+{
+  "name": "@sym-finance/eslint-config",
+  "version": "1.0.0",
+  "private": true,
+  "license": "ISC",
+  "type": "module",
+  "exports": {
+    "./base": "./base.mjs",
+    "./next": "./next.mjs"
+  },
+  "dependencies": {
+    "eslint": "^9",
+    "eslint-config-next": "16.2.9"
+  }
+}

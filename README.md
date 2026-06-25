@@ -8,6 +8,8 @@
   <h1>SyM Finance</h1>
   <p>Dashboard financiero personal con sincronización automática de cuentas, portfolio, suscripciones, cuotas, reservas y más.</p>
 Fue mi primer proyecto que me tome enserio, la idea de unificar wallets en una sola app suena genial, pero en la practica me encontre com problemas, por ejemplo; la api de Mercado Pago no permite visualizar el balance de una forma sencilla, tampoco permite ver los ingresos de los fondos comunes. La verdad que me gusto mucho hacer el backend que es lo que me especializo, y el frontend se tipear pero no el design, por lo tanto acudi a la ia en ese caso.
+  Probablemente se encuentren incosistencias o malas practicas, nadie comienza sabiendo, enfretarse a desafios hace que realmente aprendas, eso me ocurrio durante la elaboracion de este proyecto.
+
 </div>
 
 <div align="center">

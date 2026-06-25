@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
   <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js 16" />
   <img src="https://img.shields.io/badge/Express-5-white?logo=express" alt="Express 5" />
   <img src="https://img.shields.io/badge/Prisma-7.8-2D3748?logo=prisma" alt="Prisma 7" />
